@@ -8,8 +8,8 @@ Este projeto é um dashboard interativo para a disciplina de Banco de Dados II, 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
+    git clone https://github.com/BalieroGu/BokuNoHero-Dashboard.git
+    cd BokuNoHero-Dashboard.git
     ```
 
 2.  **Instale as dependências:**
